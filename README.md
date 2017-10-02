@@ -1,21 +1,21 @@
 # stupidesvautours
 Implementation collaborative du jeu stupides vautours 
 
-## Run the app on your phone
+### Run the app on your phone
 Install Expo app on your phone
 [https://expo.io/](https://expo.io/)
 
-## Node JS
+### Node JS
 Install the latest version of Node.js
 [https://nodejs.org/en/](https://nodejs.org/en/)
 
-## Clone the repo and install the app
+### Clone the repo and install the app
 ```
 git clone https://github.com/elarif/stupidesvautours.git
 cd stupidesvautours
 npm install
 ```
-## Run the app and mirror it through expo
+### Run the app and mirror it through expo
 
 ```
 npm start
