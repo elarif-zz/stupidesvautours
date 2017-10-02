@@ -95,6 +95,9 @@ build/Release
 node_modules/
 jspm_packages/
 
+#Expo
+.expo/
+
 # Typescript v1 declaration files
 typings/
 
@@ -239,5 +242,10 @@ captures/
 freeline.py
 freeline/
 freeline_project_description.json
+
+# VSC
+.babelrc
+.flowconfig
+.watchmanconfig
 
 # End of https://www.gitignore.io/api/java,maven,reactnative
