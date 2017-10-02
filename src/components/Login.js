@@ -1,5 +1,6 @@
 import React from 'react';
 import { StyleSheet, Text, View, Image } from 'react-native';
+import LoginForm from './LoginForm.js';
 
 export default class Login extends React.Component {
   render() {
@@ -15,6 +16,7 @@ export default class Login extends React.Component {
           </Text>
         </View>
         <View style={styles.formContainer}>
+          <LoginForm />
         </View>
       </View>
     );
@@ -24,9 +26,7 @@ export default class Login extends React.Component {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#2980b9',
-    alignItems: 'center',
-    justifyContent: 'center',
+    backgroundColor: '#2980b9'
   },
   logoContainer:{
     alignItems:'center',
@@ -34,8 +34,8 @@ const styles = StyleSheet.create({
     justifyContent:'center'
   },
   logo:{
-    width:130,
-    height:150
+    width:100,
+    height:120
   },
   title:{
     color:'#FFFF',
