@@ -12,7 +12,7 @@ Install the latest version of Node.js
 ### Clone the repo and install the app
 ```
 git clone https://github.com/elarif/stupidesvautours.git
-cd stupidesvautours
+cd stupidesvautours/react
 npm install
 ```
 ### Run the app and mirror it through expo
