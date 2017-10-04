@@ -1,4 +1,6 @@
 # stupidesvautours
+
+[![Join the chat at https://gitter.im/stupidesvautours/Lobby](https://badges.gitter.im/stupidesvautours/Lobby.svg)](https://gitter.im/stupidesvautours/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Implementation collaborative du jeu stupides vautours 
 
 ### Run the app on your phone
